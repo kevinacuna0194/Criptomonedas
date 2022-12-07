@@ -1,6 +1,6 @@
 # 39 - PROYECTO-Criptomonedas
 ~~~
-Buscador de los precios actuales de las Criptomonedas.
+Cotizador de Criptomonedas
 ~~~
 ---
 <p align="center" font-weight="bold">
