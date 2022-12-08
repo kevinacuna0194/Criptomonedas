@@ -60,12 +60,15 @@ input[type="submit"]{
 
 .resultado p {
     font-size: 18px!important;
+    font-family: 'Lexend', sans-serif;
 }
 .resultado p span {
     font-weight: bold;
+    font-family: 'Slackey', cursive;
 }
 p.precio{
     font-size: 30px!important;
+    font-family: 'Lexend', sans-serif;
 }
 
 @media (min-width:480px) {
